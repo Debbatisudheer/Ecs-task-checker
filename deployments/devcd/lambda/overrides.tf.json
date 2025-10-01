@@ -1,0 +1,7 @@
+{
+  "variable": {    
+    "ecsmonitorArtifactTag": {
+      "default": "1.0.0-private.git778f4f8"
+    }
+  }
+}
